@@ -5,6 +5,8 @@ public class UserInpChall {
 
             Scanner scanner = new Scanner(System.in);
 
+
+//hello
             int counter = 1;
             double sum = 0;
 
